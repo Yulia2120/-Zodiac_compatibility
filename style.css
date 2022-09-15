@@ -1,0 +1,11 @@
+#container{
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+}
+.cart{
+  width: 200px;
+  height: 200px;
+  background-color: #76c14e;
+  text-align: center;
+}
